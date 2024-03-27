@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/walker65634" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="walker65634" height="30" width="40" /></a>
+<a href="https://twitter.com/yashwanthramka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="walker65634" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yashwanth-ram-bb5920247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashwanth-ram-bb5920247" height="30" width="40" /></a>
 <a href="https://instagram.com/deathlessevil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deathlessevil" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@deathlessevil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@deathlessevil" height="30" width="40" /></a>
